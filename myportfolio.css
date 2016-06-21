@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#wrapper {
+	width: 970px;
+	margin: 0px auto;
+}
+
+#heading {
+	background-image: url("dhading.png");
+	background-size: 970px 400px;
+	height: 400px;
+}
